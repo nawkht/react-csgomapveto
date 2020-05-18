@@ -1,7 +1,7 @@
 const MAPS = [
   {
-    name: 'cache',
-    image: require('./images/de_cache.png'),
+    name: 'vertigo',
+    image: require('./images/vertigo.jpg'),
     isBanned: false,
     isPicked: false,
     isSelected: false,
